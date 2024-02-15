@@ -1,0 +1,43 @@
+.carrinho {
+    align-self: baseline;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    flex-grow: 1;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.total {
+    align-self: flex-end;
+    font-size: 1.5rem;
+}
+
+.produtos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #C6C9CE;
+    padding: 1rem 0;
+}
+
+.botao-remover {
+    background-color: #3B3D50;
+    width: 15%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .25s;
+}
+
+.botao-remover:hover {
+    border: 1px solid #3B3D50;
+    transform: scale(1.075);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.botao-remover:focus {
+    outline: none;
+}

@@ -1,0 +1,35 @@
+.produto {
+    display: flex;
+    flex-direction: column;
+    color: #161825;
+    margin: .5rem;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: .5rem;
+    max-width: 200px;
+}
+
+.dados {
+    margin-bottom: 1rem;
+}
+
+.dado {
+    margin: .5rem;
+}
+
+.botao-adicionar {
+    border-radius: 10px;
+    background-color: #3B3D50;
+    transition: .25s;
+}
+
+.botao-adicionar:hover {
+    border: 1px solid #3B3D50;
+    transform: scale(1.025);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.botao-adicionar:focus {
+    outline: none;
+}
