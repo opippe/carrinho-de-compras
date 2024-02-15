@@ -1,6 +1,6 @@
 # Carrinho de Compras
 
-## Teste de Desenvolvimento - Aglets Soluções.
+## Teste de Desenvolvimento - Aglets Soluções
 
 "Em um projeto React utilizando contexto, crie uma aplicação que simule um carrinho de 
 compras. Onde o usuário poderá adicionar produto no carrinho, remover produto do carrinho e 
@@ -23,7 +23,7 @@ npm install
 npm run start
 ```
 
-Acesse http://localhost:5173 no navegador para rodar localmente.
+Acesse http://localhost:5173/carrinho-de-compras/ no navegador para rodar localmente.
 
 ### GitHub Pages
-Ou acesse diretamente em [opippe.github.io/carrinho-de-compras/](https://opippe.github.io/carrinho-de-compras/).
+Ou acesse diretamente em [opippe.github.io/carrinho-de-compras/](https://opippe.github.io/carrinho-de-compras/)
