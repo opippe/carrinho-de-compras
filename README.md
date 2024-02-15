@@ -23,4 +23,4 @@ npm install
 npm run start
 ```
 
-Acesse http://localhost:3000 no navegador para rodar localmente.
+Acesse http://localhost:5173 no navegador para rodar localmente.
