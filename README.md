@@ -24,3 +24,6 @@ npm run start
 ```
 
 Acesse http://localhost:5173 no navegador para rodar localmente.
+
+### GitHub Pages
+Ou acesse diretamente em [opippe.github.io/carrinho-de-compras/](https://opippe.github.io/carrinho-de-compras/).
