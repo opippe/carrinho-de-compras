@@ -10,7 +10,7 @@ praticas."
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/NikolasOliveir4/shopping-cart.git
+git clone https://github.com/https://github.com/opippe/carrinho-de-compras.git
 ```
 
 ### 2. Instalar as Dependências
